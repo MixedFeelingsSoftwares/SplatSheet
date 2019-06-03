@@ -1,0 +1,10 @@
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\bin\Debug\Splat Sprite Slicer.exe.config
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\bin\Debug\Splat Sprite Slicer.exe
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\bin\Debug\Splat Sprite Slicer.pdb
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\obj\Debug\Splat Sprite Slicer.csprojAssemblyReference.cache
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\obj\Debug\Splat_Sprite_Slicer.mainFrm.resources
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\obj\Debug\Splat_Sprite_Slicer.Properties.Resources.resources
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\obj\Debug\Splat Sprite Slicer.csproj.GenerateResource.cache
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\obj\Debug\Splat Sprite Slicer.csproj.CoreCompileInputs.cache
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\obj\Debug\Splat Sprite Slicer.exe
+C:\Users\IsKaffe\source\repos\Splat Sprite Slicer\Splat Sprite Slicer\obj\Debug\Splat Sprite Slicer.pdb
